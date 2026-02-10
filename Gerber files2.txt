@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles-F_Cu.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles-B_Cu.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles-F_Paste.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles-B_Paste.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles-F_Mask.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles-B_Mask.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Administrator\Desktop\gerber file2(kicad)\kicadfiles.txt-job.gbrjob'.
+Info: Done.
