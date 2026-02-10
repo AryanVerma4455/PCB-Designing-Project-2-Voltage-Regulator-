@@ -4,6 +4,7 @@ The design includes a two-layer PCB and follows basic PCB designing principles. 
 In this project, we also explain how to generate manufacturing files and order the PCB from manufacturers such as JLCPCB and EasyEDA, with options for any board color, with or without component soldering, and full customization based on project requirements.
 
 keyword
+
 1.Footprint
 A footprint defines the physical layout of a component on the PCB, including pad size, shape, and spacing. Correct footprint selection ensures proper soldering and component fitting.
  
