@@ -1,4 +1,4 @@
-# PCB-Designing-Project-2-Voltage-Regulator-
+# PCB-Designing-Project-2(Voltage-Regulator)
 In this series for beginners, we continue learning PCB designing using KiCad with our second project: a Voltage Regulator. This project focuses on designing a regulated power supply circuit from scratch, starting from schematic capture to PCB layout.
 The design includes a two-layer PCB and follows basic PCB designing principles. It covers proper component selection, schematic connections, footprint assignment, component placement, and routing to ensure a stable and reliable voltage output. All components are clearly referenced, and standard PCB design keywords and conventions are followed.
 In this project, we also explain how to generate manufacturing files and order the PCB from manufacturers such as JLCPCB and EasyEDA, with options for any board color, with or without component soldering, and full customization based on project requirements.
